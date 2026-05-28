@@ -1,0 +1,248 @@
+{
+  "name": "Warcraft 3",
+  "shortName": "W3",
+  "description": "Originální české hlášky",
+  "color": "#8C1616",
+  "rootUrl": "",
+  "author": {
+    "name": "Josaka",
+    "url": "https://github.com/JosakaIT"
+  },
+  "lang": "cs",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "purpose": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Postarám se aby si trpěl",
+      "filename": "postaram-se-aby-si-trpel.mp3"
+    },
+    {
+      "name": "Přišel sekáč",
+      "filename": "prisel-sekac.mp3"
+    },
+    {
+      "name": "Pšš přemýšlím",
+      "filename": "pss-premyslim.mp3"
+    },
+    {
+      "name": "Sekaná",
+      "filename": "sekana.mp3"
+    },
+    {
+      "name": "Síla a čest",
+      "filename": "sila-a-cest.mp3"
+    },
+    {
+      "name": "Sleduj a uč se",
+      "filename": "sleduj-a-uc-se.mp3"
+    },
+    {
+      "name": "Stíny právě dorazily",
+      "filename": "stiny-prave-dorazily.mp3"
+    },
+    {
+      "name": "Tady máš parchante",
+      "filename": "tady-mas-parchante.mp3"
+    },
+    {
+      "name": "Tady mi nikdo poručet nebude",
+      "filename": "tady-mi-nikdo-porucet-nebude.mp3"
+    },
+    {
+      "name": "Tak já teda jdu",
+      "filename": "tak-ja-teda-jdu.mp3"
+    },
+    {
+      "name": "Tak se stane",
+      "filename": "tak-se-stane.mp3"
+    },
+    {
+      "name": "Teď není čas na hraní",
+      "filename": "ted-neni-cas-na-hrani.mp3"
+    },
+    {
+      "name": "To je příliš snadné",
+      "filename": "to-je-prilis-snadne.mp3"
+    },
+    {
+      "name": "Tvá bolest se stane legendou",
+      "filename": "tva-bolest-se-stane-legendou.mp3"
+    },
+    {
+      "name": "Ve vzduchu cítím magii",
+      "filename": "ve-vzduchu-citim-magii.mp3"
+    },
+    {
+      "name": "Vidím, nevidím",
+      "filename": "vidim-nevidim.mp3"
+    },
+    {
+      "name": "Vousy, krev, chlast a rachot",
+      "filename": "vousy-krev-chlast-a-rachot.mp3"
+    },
+    {
+      "name": "Vy že jste král",
+      "filename": "vy-ze-jste-kral.mp3"
+    },
+    {
+      "name": "Za hordu život položím",
+      "filename": "za-hordu-zivot-polozim.mp3"
+    },
+    {
+      "name": "Za kalimdor",
+      "filename": "za-kalimdor.mp3"
+    },
+    {
+      "name": "Za krále lichů",
+      "filename": "za-krale-lichu.mp3"
+    },
+    {
+      "name": "Za naše kmeny",
+      "filename": "za-nase-kmeny.mp3"
+    },
+    {
+      "name": "Za nersula",
+      "filename": "za-nersula.mp3"
+    },
+    {
+      "name": "Za rezavé vousy",
+      "filename": "za-rezave-vousy.mp3"
+    },
+    {
+      "name": "Začíná se to zvrhávat",
+      "filename": "zacina-se-to-zvrhavat.mp3"
+    },
+    {
+      "name": "Zase práce",
+      "filename": "zase-prace.mp3"
+    },
+    {
+      "name": "Zatemněl mi spánek smysly",
+      "filename": "zatemnel-mi-spanek-smysly.mp3"
+    },
+    {
+      "name": "Zhyň bídáku",
+      "filename": "zhyn-bidaku.mp3"
+    },
+    {
+      "name": "Žene se bouře",
+      "filename": "zene-se-boure.mp3"
+    },
+    {
+      "name": "Žízním po magii",
+      "filename": "ziznim-po-magii.mp3"
+    },
+    {
+      "name": "A bude se bušit",
+      "filename": "a-bude-se-busit.mp3"
+    },
+    {
+      "name": "Budeš očištěn ohněm",
+      "filename": "budes-ocisten-ohnem.mp3"
+    },
+    {
+      "name": "Budu se snažit",
+      "filename": "budu-se-snazit.mp3"
+    },
+    {
+      "name": "Být zelený není jednoduché",
+      "filename": "byt-zeleny-neni-jednoduche.mp3"
+    },
+    {
+      "name": "Cítím své staré kosti",
+      "filename": "citim-sve-stare-kosti.mp3"
+    },
+    {
+      "name": "Co se děje",
+      "filename": "co-se-deje.mp3"
+    },
+    {
+      "name": "Co zase",
+      "filename": "co-zase.mp3"
+    },
+    {
+      "name": "Čas jsou je mana",
+      "filename": "cas-jsou-je-mana.mp3"
+    },
+    {
+      "name": "Hrrr na něě",
+      "filename": "hrrr-na-nee.mp3"
+    },
+    {
+      "name": "Já je převálcuju",
+      "filename": "ja-je-prevalcuju.mp3"
+    },
+    {
+      "name": "Jak by vám stařec mohl pomoci",
+      "filename": "jak-by-vam-starec-mohl-pomoci.mp3"
+    },
+    {
+      "name": "Jdeme do vzduchu",
+      "filename": "jdeme-do-vzduchu.mp3"
+    },
+    {
+      "name": "Jdou po nás zezadu",
+      "filename": "jdou-po-nas-zezadu.mp3"
+    },
+    {
+      "name": "Jsem slepý ne hluchý",
+      "filename": "jsem-slepy-ne-hluchy.mp3"
+    },
+    {
+      "name": "Kde má být prolita má krev",
+      "filename": "kde-ma-byt-prolita-ma-krev.mp3"
+    },
+    {
+      "name": "Kopitem do hlavy",
+      "filename": "kopitem-do-hlavy.mp3"
+    },
+    {
+      "name": "Kopito a hlava",
+      "filename": "kopito-a-hlava.mp3"
+    },
+    {
+      "name": "Blížím se rychlostí zvuku",
+      "filename": "blizim-se-rychlosti-zvuku.mp3"
+    },
+    {
+      "name": "Má pomsta bude vaší",
+      "filename": "ma-pomsta-bude-vasi.mp3"
+    },
+    {
+      "name": "Matko země veď mě",
+      "filename": "matko-zeme-ved-me.mp3"
+    },
+    {
+      "name": "Mountain Giant",
+      "filename": "mountain-giant.mp3"
+    },
+    {
+      "name": "Mrazivý smutek hladový",
+      "filename": "mrazivy-smutek-hladovy.mp3"
+    },
+    {
+      "name": "Na tohle jsem už starý",
+      "filename": "na-tohle-jsem-uz-stary.mp3"
+    },
+    {
+      "name": "Něco se děje",
+      "filename": "neco-se-deje.mp3"
+    },
+    {
+      "name": "Palte do nich",
+      "filename": "palte-do-nich.mp3"
+    }
+  ]
+}
