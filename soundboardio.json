@@ -244,5 +244,25 @@
       "name": "Palte do nich",
       "filename": "palte-do-nich.mp3"
     }
+    {
+      "name": "Hurá do práce",
+      "filename": "hura-do-prace.wav"
+    },
+    {
+      "name": "Hmm",
+      "filename": "hmm.wav"
+    },
+    {
+      "name": "Můžu se do toho pustit",
+      "filename": "muzu-se-do-toho-pustit.wav"
+    },
+    {
+      "name": "Mám práci",
+      "filename": "mam-praci.wav"
+    },
+    {
+      "name": "Co jako",
+      "filename": "co-jako.wav"
+    }
   ]
 }
